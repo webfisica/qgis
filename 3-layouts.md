@@ -1,24 +1,14 @@
-3 - Layouts
-
 # Criando um novo layout
 
-Acesse: Projeto → Novo layout de impressão.
+- Acesse: Projeto → Novo layout de impressão.
+- Nomeie o layout (ex: “Mapa de Angicos – Uso do Solo”).
+- Mostre como ajustar o tamanho da página (A4, A3, paisagem ou retrato): Layout - Configuração de Impressão de Página.
+- Introduza as guias e margens para alinhamento.
 
-Nomeie o layout (ex: “Mapa de Angicos – Uso do Solo”).
-
-Mostre como ajustar o tamanho da página (A4, A3, paisagem ou retrato).
-
-Introduza as guias e margens para alinhamento.
-
-3. Adicionando o mapa principal (20 min)
-
-Ferramenta: Adicionar mapa → desenhar a área do mapa.
-
-Ensine a sincronizar a extensão atual do QGIS.
-
-Mostre como ajustar escala, centro e rotação.
-
-Explique a importância da escala fixa e como bloquear o mapa para evitar movimentos acidentais.
+# Adicionando o mapa principal
+- Ferramenta: Adicionar mapa → desenhar a área do mapa.
+- Ajustar escala, centro e rotação.
+- Explique a importância da escala fixa e como bloquear o mapa para evitar movimentos acidentais.
 
 4. Elementos cartográficos essenciais (30 min)
 
